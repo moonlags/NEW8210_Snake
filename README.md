@@ -5,4 +5,5 @@ This game is using directfb library to render graphics and read key presses.
 
 ### Dependencies:
 `libpos libz libfusion libdirect libdirectfb`
+
 Required and additional libraries for NEW8210 are included in `lib/` directory.

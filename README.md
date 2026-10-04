@@ -3,7 +3,7 @@
 A classic snake game with ability to play with a bot with 3 different difficulty levels.
 This game is using directfb library to render graphics and read key presses.
 
-![Video](docs/showcase.mp4)
+https://github.com/user-attachments/assets/d4f3858e-7b60-4ef7-aa9b-575a4192c356
 
 ## Features
 

@@ -60,33 +60,3 @@ NEW8210_Snake
 ├── build.sh        # build script
 └── README.md
 ```
-
-## Development
-
-```bash
-go test ./...        # run tests
-go vet ./...         # static checks
-```
-
-Database migrations: describe how they are applied (automatically on start, or via a tool/command).
-
-## Deployment
-
-Short notes on how to build and run in production:
-
-```bash
-CGO_ENABLED=0 go build -o app ./cmd/app
-```
-
-## Roadmap
-
-- [ ] Planned feature
-- [ ] Another planned feature
-
-## Contributing
-
-Pull requests are welcome. For larger changes, please open an issue first to discuss what you want to change.
-
-## License
-
-[MIT](LICENSE)

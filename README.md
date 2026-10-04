@@ -1,8 +1,3 @@
-### Dependencies:
-`libpos libz libfusion libdirect libdirectfb`
-
-Required and additional libraries for NEW8210 are included in `lib/` directory.
-
 # NEW8210 Snake Game
 
 A classic snake game with ability to play with a bot with 3 different difficulty levels.

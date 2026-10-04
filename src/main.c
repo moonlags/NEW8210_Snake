@@ -290,7 +290,7 @@ int main(int argc, char **argv) {
   fdsc.height = 20;
 
   IDirectFBFont *font = NULL;
-  DFBCHECK(dfb->CreateFont(dfb, "./CozetteVector.ttf", &fdsc, &font));
+  DFBCHECK(dfb->CreateFont(dfb, "./static/CozetteVector.ttf", &fdsc, &font));
   DFBCHECK(primary->SetFont(primary, font));
 
   DFBCHECK(primary->GetSize(primary, &screen_width, &screen_height));

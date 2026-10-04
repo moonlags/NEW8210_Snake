@@ -1,1 +1,1 @@
-arm-unknown-linux-gnu-gcc -o bin/cardterminal -I./src -I./include -lpos -lz -lfusion -ldirect -ldirectfb -L./lib src/*.c
+/opt/compiler/glibc-oabi-toolchain-arm-generic/bin/arm-unknown-linux-gnu-gcc -o bin/cardterminal -I./src -I./include -lpos -lz -lfusion -ldirect -ldirectfb -L./lib src/*.c
